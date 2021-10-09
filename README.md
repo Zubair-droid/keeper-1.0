@@ -1,6 +1,6 @@
 # React-keeper
 A notes maker web application for making notes and insights then and there.
-### Check the working web-app: <a target="_new" href="https://sharp-cori-0293ee.netlify.app/"><b>Keeper</b></a>
+### Check the working web-app: <a target="_blank" href="https://sharp-cori-0293ee.netlify.app/"><b>Keeper</b></a>
 # Overview 
 Functions as notes to store activities and important dates with a single title and precise line of words for the context as a  reminder.
 
